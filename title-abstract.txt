@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Multiple Testing Method with Empirical Null Distribution in Leukemia Studies
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In genomics we are often faced with the task to identify genes correlated with a specific disease among a large number of candidate gene pools. A naive approach is to apply a hypothesis test to every individual gene. This method ignores confounding factors in the data and does not adjust for the additional variance. In this paper we will introduce a much more robust method primarily using estimations of the empirical null distribution and the false discovery rate (FDR). A leukemia dataset is used to demonstrate that the empirical null distribution, one estimated from observing the data first, provides a better fit of the theoretical null distribution. Furthermore, we will compare and contrast the result with unsupervised classification methods such as k-Means and the Gaussian Mixture Model.
